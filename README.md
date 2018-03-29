@@ -1,2 +1,2 @@
 Commands in Discord.py
-<https://www.youpak.com/watch?v=pEnRUKhAcOM>
+[Forked from here] (https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3)
